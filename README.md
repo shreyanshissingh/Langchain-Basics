@@ -7,11 +7,11 @@ A comprehensive tutorial project exploring LangChain, a framework for developing
 This project demonstrates core LangChain concepts and best practices including:
 - Language model integration and interactions
 - Prompt management and optimization
+- More to come, WIP ...
 - Chains and sequential operations
 - Memory management
 - Agent creation and tools
-- Document processing and retrieval
-- More to come, WIP ...
+
 ## Getting Started
 
 ### Prerequisites
@@ -47,11 +47,12 @@ python src/example_script.py
 
 - **LLMs**: Working with language models
 - **Prompts**: Template-based prompt engineering
+- More to come, WIP ...
 - **Chains**: Combining multiple operations
 - **Memory**: Conversation and retrieval memory
 - **Agents**: Building autonomous agents with tools
-- **Document Loaders**: Processing various document types
--
+
+
 ## Resources
 
 - [LangChain Documentation](https://python.langchain.com/)
